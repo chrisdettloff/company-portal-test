@@ -1,8 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `DaySmart Portal`,
+    description: `This DaySmart company portal is the central location for all information on how the company
+    operates. Anyone who is apart of the company can create a pull request to add content or make improvements 
+    to the content on this page.`,
+    author: `DaySmart Interns`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
